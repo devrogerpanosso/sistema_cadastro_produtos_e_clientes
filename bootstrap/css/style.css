@@ -1,0 +1,99 @@
+.descricao {
+	font-size:24px;
+	color:#353535;
+	line-height:60px;
+	word-spacing:1px;
+	font-variant:normal;
+	font-weight:100px;
+	font-family:verdana;
+}
+.linkHover:hover {
+	background-color: aqua;
+	transition:0.3s all linear;
+	color:#353535;
+	border-radius: 2px;
+	color: #FFFFFF!important;
+}
+.efect:hover {
+	color:#576ADA;
+}
+.fontLink {
+	font-size:12px;
+}
+.background {
+	width:100%!important;
+	min-height:auto!important;
+	background-image:url("../../imgs/background.jpg")!important;
+	background-repeat:no-repeat!important;
+	background-size:cover!important;
+	background-position:center!important;
+}
+.text {
+	font-family:sans-serif;
+}
+.border {
+	border:1px solid #578945;
+}
+.ajust {
+	margin-top:100px!important;
+}
+.buttonAcess:hover {
+	color:green;
+	background-color:#7954BA!important;
+	border:1px solid #7954BA!important;
+	box-shadow:3px 3px 3px #353535!important;
+}
+button {
+	color:#FFFFFF!important;
+}
+.altura {
+	background-size:contain!important;
+}
+.colorBackground {
+	background-color:#09faba!important;
+}
+#h3 {
+	color:578945!important;
+}
+.icon {
+	padding-left:2px;
+	padding-right:2px;
+}
+.icon:hover {
+	background-color:#578945!important;
+	transition:1s all linear;
+}
+#H1 {
+	font-size:36px;
+}
+.padding {
+	line-height:50px;
+}
+.UpdateDelete:hover {
+	box-shadow:3px 3px 3px #09faba;
+}
+.login {
+	width:100%;
+	min-height:900px;
+	background-image:url("../../imgs/espaco.jpg");
+	background-size:cover;
+	background-repeat:no-repeat-center;
+	background-position: center;
+}
+.loginUploadImgs {
+	width:100%;
+	min-height:900px;
+	background-image:url("../../imgs/login_upload.jpg");
+	background-size:cover!important;
+	background-repeat:no-repeat-center;
+	background-position:center;
+}
+.linkUser:hover {
+	background-color:#353535;
+	color:#FFCC01!important;
+}
+.ImgIconUpdateDelete:hover {
+	background-color: #141a18!important;
+	border-radius: 20px!important;
+	box-shadow:2px 2px 2px #FFFFFF!important;
+} 
